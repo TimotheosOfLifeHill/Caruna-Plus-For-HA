@@ -1,32 +1,3 @@
-# HACS (Home Assistant Community Store)
+[![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg?style=for-the-badge)](https://github.com/hacs/integration)
 
-_Manage (Install, track, upgrade) and discover custom elements for Home Assistant directly from the UI._
-
-## What?
-
-HACS is a integration that gives the user a powerful UI to handle downloads of custom needs.
-
-**Highlights of what HACS can do:**
-
-- Help you discover new custom elements.
-- Help you download new custom elements.
-- Help you keep track of your custom elements.
-  - Manage(download/update/remove)
-  - Shortcuts to repositories/issue tracker
-
-## Useful links
-
-- [General documentation](https://hacs.xyz/)
-- [Configuration](https://hacs.xyz/docs/use/configuration/basic)
-- [FAQ](https://hacs.xyz/docs/faq)
-- [GitHub](https://github.com/hacs)
-- [Discord](https://discord.gg/apgchf8)
-- [Become a GitHub sponsor? ❤️](https://github.com/sponsors/ludeeus)
-- [BuyMe~~Coffee~~Beer? 🍺🙈](https://buymeacoffee.com/ludeeus)
-
-
-## Issues
-
-~~If~~ When you experience issues/bugs with this the best way to report them is to open an issue in **this** repo.
-
-[Issue link](https://hacs.xyz/docs/help/issues)
+# Caruna Plus Home Assistant integration
